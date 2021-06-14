@@ -11,7 +11,7 @@ class Methods {
         System.out.println(p);
     }
 
-    //two parameter
+    //three parameter
     public void m3(int a, char b, float c){
         System.out.println("Tree parameter method: "+a+" "+b+" "+c);
     }
