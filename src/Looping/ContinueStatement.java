@@ -7,6 +7,13 @@ public class ContinueStatement {
                 continue;
             }
             System.out.println("First for loop: "+ i );
+            System.out.println("First for loop: "+ i );
+            System.out.println("First for loop: "+ i );
+            System.out.println("First for loop: "+ i );
+            System.out.println("First for loop: "+ i );
+            System.out.println("First for loop: "+ i );
+            System.out.println("First for loop: "+ i );
+            System.out.println("First for loop: "+ i );
         }
 
         for(int i =0;i<=5;i++){
