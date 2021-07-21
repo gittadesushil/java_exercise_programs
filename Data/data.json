@@ -1,0 +1,25 @@
+{
+  "company": {
+    "anotherelement": "sdfsdf",
+    "login": [
+      {
+        "id": 1234,
+        "username": "abc@foodstore.com",
+        "password": "1213232",
+        "message": "invalid username"
+      },
+      {
+        "id": 2345,
+        "username": "valid@foodstore.com",
+        "password": "xx12srewr",
+        "message": "invalid password"
+      },
+      {
+        "id": 22222,
+        "username": "null",
+        "password": "null",
+        "message": "wrong data provided"
+      }
+    ]
+  }
+}

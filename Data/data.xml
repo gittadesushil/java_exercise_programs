@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<foodstore>
+    <login id="1234">
+        <username>abc@foodstore.com</username>
+        <password>1213232</password>
+        <message>invalid username</message>
+    </login>
+    <login id="2345">
+        <username>valid@foodstore.com</username>
+        <password>xx12srewr</password>
+        <message>invalid password</message>
+    </login>
+    <login id="2345">
+        <username>valid@foodstore.com</username>
+        <password>xx12srewr</password>
+        <message>invalid password</message>
+    </login>
+</foodstore>
